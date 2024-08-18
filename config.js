@@ -8,11 +8,6 @@ global.confirmCode = ""
 
 global.owner = [
   ['393201391411', 'spidyy<3', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
 ] //Numero degli owner
 
 //────────────────────────────
